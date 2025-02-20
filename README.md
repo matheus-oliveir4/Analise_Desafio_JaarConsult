@@ -19,3 +19,11 @@ O projeto os seguintes questionamentos feitos pela empresa:
 		e. Crie pelo menos um seletor de segmentação para selecionar a dimensão que deseja exibir no visual;<br>
 		f. Crie pelo menos uma tooltip personalizada;<br>
 		g. Utilize recursos de formatação dinâmica em pelo menos um visual (cor, ícone, rótulo, título, etc.);
+
+**Panorama Lojas** <br>
+<img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Panorama%20Lojas.PNG" alt="Panorama Lojas "> <br>
+**Panorama Produtos**
+<img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Panorama%20Produtos.PNG" alt = "Panorama Produtos" > <br> 
+
+Segue o linlk do Drive com o video para uma melhor experiência:
+[Clique Aqui](https://drive.google.com/drive/folders/1yvabhNfKxLz-P2mrPnkivRGCoPnBl5ac?usp=sharing)
