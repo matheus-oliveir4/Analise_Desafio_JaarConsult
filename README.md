@@ -8,8 +8,7 @@ O projeto os seguintes questionamentos feitos pela empresa:
 		c.	Comparação da evolução do valor de vendas e devoluções entre períodos; <br>
 		d. Comparativo entre valor de desconto e valor de devolução entre as lojas; <br>
 		e. Produtos que estão com estoque crítico e estoque em excesso (Dica: Não há uma regra específica para classificar a situação dos produtos. <br>
-		f. Categorias e subcategorias que possuem melhor e pior performance de vendas (Dica: A melhor e pior performance nem sempre é somente influenciada pelo Volume de Vendas.<br>
-	2.	Crie pelo menos página livre com sugestões de análises com base em sua interpretação dos dados, utilizando todas as tabelas disponíveis.<br>
+		f. Categorias e subcategorias que possuem melhor e pior performance de vendas.<br>
 	Utilize os recursos de front-end descritos abaixo, para desenvolvimento dos itens 1 e 2:<br>
 		a. Utilize imagem de background para os recursos visuais estáticos (sugerimos o uso do Figma);<br>
 		b.	Crie menu de navegação entre as páginas;<br>
