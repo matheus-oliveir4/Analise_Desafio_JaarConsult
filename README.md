@@ -4,7 +4,7 @@ O projeto os seguintes questionamentos feitos pela empresa:
 
 1.	Crie uma ou mais páginas que respondam as perguntas abaixo:
 		a.	Volume e valor de vendas por loja; <br>
-		b.	Volume e valor em estoque por produto;
+		b.	Volume e valor em estoque por produto; <br>
 		c.	Comparação da evolução do valor de vendas e devoluções entre períodos; <br>
 		d. Comparativo entre valor de desconto e valor de devolução entre as lojas; <br>
 		e. Produtos que estão com estoque crítico e estoque em excesso (Dica: Não há uma regra específica para classificar a situação dos produtos. <br>
@@ -22,7 +22,7 @@ O projeto os seguintes questionamentos feitos pela empresa:
 <img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Panorama%20Lojas.PNG" alt="Panorama Lojas " width= 700px> <br>
 **Panorama Produtos** <br>
 <img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Panorama%20Produtos.PNG" alt = "Panorama Produtos" width=700px> <br> 
-**Tabelas, Medidas e Esquema relaciona**<br>
+**Tabelas, Medidas e Esquema relacionais**<br>
 <img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Esquema_relacional.png" alt="Esquema_relacional " width= 700px > 
 <img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Colunas%20e%20Medidas.png" alt="Colunas e Medidas " width= 100px height = 328px > <br>
 
