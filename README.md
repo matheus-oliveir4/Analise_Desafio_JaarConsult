@@ -22,6 +22,9 @@ O projeto os seguintes questionamentos feitos pela empresa:
 <img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Panorama%20Lojas.PNG" alt="Panorama Lojas " width= 700px> <br>
 **Panorama Produtos** <br>
 <img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Panorama%20Produtos.PNG" alt = "Panorama Produtos" width=700px> <br> 
+**Tabelas, Medidas e Esquema relaciona**<br>
+<img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Esquema_relacional.png" alt="Esquema_relacional " width= 700px > 
+<img src="https://github.com/matheus-oliveir4/Analise_Desafio_JaarConsult/blob/main/Colunas%20e%20Medidas.png" alt="Colunas e Medidas " width= 100px height = 328px > <br>
 
 Segue o linlk do Drive com o video para uma melhor experiência:
 [Clique Aqui](https://drive.google.com/drive/folders/1yvabhNfKxLz-P2mrPnkivRGCoPnBl5ac?usp=sharing)
